@@ -94,10 +94,10 @@ agqa.ipynb
 If you find our work helpful, please cite it.
 
 ```bibtex
-@article{videohallucer,
+@inproceedings{wang2024exovip,
     title={ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning},
-    author={Yuxuan Wang, Alan Yuille, Zhuowan Li, Zilong Zheng},
-    journal={COLM 2024},
+    author={Wang, Yuxuan and Yuille, Alan and Li, Zhuowan and Zheng Zilong},
+    booktitle={The first Conference on Language Modeling (CoLM)},
     year={2024}
 }
 ```
