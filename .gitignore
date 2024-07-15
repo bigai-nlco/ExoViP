@@ -1,6 +1,9 @@
 # this file
-*.png
-*.jpg
+datasets/gqa/imgs
+datasets/kilogram/imgs
+datasets/magicbrush/imgs
+datasets/nlvr2/imgs
+datasets/refcoco/imgs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
