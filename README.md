@@ -2,7 +2,7 @@
 
 # ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning
 
-[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-b31b1b.svg)](https://arxiv.org/abs/<INDEX>)
+[![arXiv](https://img.shields.io/badge/arXiv-2408.02210-b31b1b.svg)](https://arxiv.org/abs/2408.02210)
 [![Conference](http://img.shields.io/badge/COLM-2024-4b44ce.svg)](https://colmweb.org/)
 
 </div>
