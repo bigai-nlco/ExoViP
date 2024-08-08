@@ -97,7 +97,7 @@ If you find our work helpful, please cite it.
 @inproceedings{wang2024exovip,
     title={ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning},
     author={Wang, Yuxuan and Yuille, Alan and Li, Zhuowan and Zheng, Zilong},
-    booktitle={The first Conference on Language Modeling (CoLM)},
+    booktitle={The first Conference on Language Modeling (COLM)},
     year={2024}
 }
 ```
