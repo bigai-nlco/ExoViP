@@ -17,7 +17,7 @@ Official implementation of our paper: ExoViP: Step-by-step Verification and Expl
 
 In this work, we devise a "plug-and-play" method, ExoViP, to correct the errors at both the planning and execution stages through introspective verification. We employ verification modules as "exoskeletons" to enhance current vision-language programming schemes. Specifically, our proposed verification module utilizes a mixture of three sub-verifiers to validate predictions after each reasoning step, subsequently calibrating the visual module predictions and refining the reasoning trace planned by LLMs.
 
-## Envirionment
+## Environment
 
 Paste your OPENAI-API-KEY and OPENAPI-API-BASE to `engine/.env` and `tasks/*.ipynb`
 
