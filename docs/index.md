@@ -66,7 +66,7 @@ Experimental results on two representative VL programming methods showcase consi
 ## ExoViP
 {:.title.is-3}
 
-### Exploitation with Verification
+### Exploration with Verification
 {:.title.is-4}
 
 <div class="columns is-centered has-text-centered">
