@@ -132,7 +132,7 @@ $$s_{ans}^{vqa} = \textrm{VQA}(\mathcal{Q}_{ans}, True) - \textrm{VQA}(\mathcal{
 <section class="section">
     <div class="container is-max-desktop" markdown="1">
 
-## Compositional Visual Question Answering
+## Downstream Tasks
 {:.title.is-3}
 
 <div class="columns is-centered has-text-centered">
@@ -141,7 +141,7 @@ $$s_{ans}^{vqa} = \textrm{VQA}(\mathcal{Q}_{ans}, True) - \textrm{VQA}(\mathcal{
 <figure class="image" >
   <img src="{{ '/assets/img/exovip_case_gqa.png' | relative_url }}"  />
 </figure>
-<figurecaption><span class="dnerf">Task 1.</span> Graph Question Answering</figurecaption>
+<figurecaption><span class="dnerf">Task 1.</span> Compositional Visual Question Answering.</figurecaption>
 
 </div>
 <div class="column">
